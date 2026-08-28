@@ -1,0 +1,3 @@
+# ignore all .txt files
+/srms_venv
+/__pycache__
